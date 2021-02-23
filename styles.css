@@ -1049,6 +1049,11 @@ align-items: center;
         width: 30%;
         /* border: 1px solid white; */
     }  
+    
+    .logo-social {
+        display: flex;
+        margin-left: 8%;
+        width: 100%;
 
     }
     
