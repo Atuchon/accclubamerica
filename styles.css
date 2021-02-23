@@ -1038,14 +1038,14 @@ align-items: center;
     .logo-brand img {
         position: absolute;
         top: 0px;
-        left: 370px;
-        width: 15%;
+        left: 80%;
+        width: 20%;
         /* border: 1px solid white; */
     }  
     .logo-compe img {
         position: absolute;
         top: 15px;
-        left: 160px;
+        left: 35%;
         width: 30%;
         /* border: 1px solid white; */
     }  
